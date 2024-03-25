@@ -1,4 +1,4 @@
-## Lyft First Technical Interview Question. 
+## Flip Cells Game 
 
 App requirements are explained on mainActivity.kt class in documentation comments
 with TODO sections also mentioned where it was required.
