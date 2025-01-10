@@ -126,8 +126,6 @@ dependencies {
     testImplementation(AppDependencies.kotlinCoRoutinesCoreTest)
     testImplementation(AppDependencies.junit)
     testImplementation(AppDependencies.robolectric)
-    testImplementation(AppDependencies.robolectricShadows)
-    testImplementation(AppDependencies.robolectricSupport)
     testImplementation(AppDependencies.archCoreTesting)
     testImplementation(AppDependencies.junitRunner)
     testImplementation(AppDependencies.mockito)
